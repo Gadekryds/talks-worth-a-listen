@@ -12,4 +12,4 @@
 | Use your source code to document your application                                | Michaël Hompus   | NDC London 2023 | <https://www.youtube.com/watch?v=hf8hzGb2C6E> |     |
 | C4 models as code                                                                | Simon Brown      | NDC Oslo 2023   | <https://www.youtube.com/watch?v=4HEd1EEQLR0> |     |
 | Awesome SQL – tips and tricks for application developers                         | Vlad Mihalcea    | Devoxx          | <https://www.youtube.com/watch?v=-fd_0EGujM0> |     |
-| Design Good Schemas - Get a Better Database                                      | Nuri Halperin    | NDC Oslo 2023   | <https://www.youtube.com/watch?v=iDWwoz9ZUzw> | [Notes](~design-good-schemas-get-better-database)    |
+| Design Good Schemas - Get a Better Database                                      | Nuri Halperin    | NDC Oslo 2023   | <https://www.youtube.com/watch?v=iDWwoz9ZUzw> | [Notes](design-good-schemas-get-better-database)    |
