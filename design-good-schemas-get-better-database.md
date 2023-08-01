@@ -1,3 +1,8 @@
+# Disclaimer
+
+These are takeaways from the talk.
+These are the opinions of the talker, so don't just believe everything as a fact.
+
 # Use natural keys
 
 A Country table doesn't require a Sequential key.
