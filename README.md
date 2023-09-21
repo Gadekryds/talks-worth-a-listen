@@ -13,3 +13,5 @@
 | C4 models as code                                                                | Simon Brown      | NDC Oslo 2023   | <https://www.youtube.com/watch?v=4HEd1EEQLR0> |     |
 | Awesome SQL – tips and tricks for application developers                         | Vlad Mihalcea    | Devoxx          | <https://www.youtube.com/watch?v=-fd_0EGujM0> |     |
 | Design Good Schemas - Get a Better Database                                      | Nuri Halperin    | NDC Oslo 2023   | <https://www.youtube.com/watch?v=iDWwoz9ZUzw> | [Notes](design-good-schemas-get-better-database.md)    |
+| Avoiding mistakes with events, one event at a time  |  Andrzej Grzesik  | JavaZone Oslo 2023  |  <https://2023.javazone.no/program/1306f8e9-af1b-4e2c-9ba3-7c4771b6aba1>  |
+
