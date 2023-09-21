@@ -14,4 +14,6 @@
 | Awesome SQL – tips and tricks for application developers                         | Vlad Mihalcea    | Devoxx          | <https://www.youtube.com/watch?v=-fd_0EGujM0> |     |
 | Design Good Schemas - Get a Better Database                                      | Nuri Halperin    | NDC Oslo 2023   | <https://www.youtube.com/watch?v=iDWwoz9ZUzw> | [Notes](design-good-schemas-get-better-database.md)    |
 | Avoiding mistakes with events, one event at a time  |  Andrzej Grzesik  | JavaZone Oslo 2023  |  <https://2023.javazone.no/program/1306f8e9-af1b-4e2c-9ba3-7c4771b6aba1>  |
-
+| Hjelp! Applikasjonen vår er et eneste stort kaos  |   Erik Dahl (NO)  |   JavaZone Oslo 2023  | <https://2023.javazone.no/program/3572508a-4789-49ab-b07b-b3f49d9c5754>   |   |
+|   Hidden security features of the JVM - everything you didn’t know and more   |   Steve Poole |   JavaZone Oslo 2023  |   <https://2023.javazone.no/program/243609e5-4340-49bd-b2dc-9db5f6689146> |   |
+|   Arkitekt 2.0 - En oppdatert arkitekt for en oppdatert verden    |   Magnus Elden (NO)   |   JavaZone Oslo 2023  |   <https://2023.javazone.no/program/f2395670-fd16-4689-a644-6e4df50c4361>  |   |
