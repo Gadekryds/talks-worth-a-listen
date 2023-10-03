@@ -18,4 +18,6 @@
 | Hidden security features of the JVM - everything you didn’t know and more        | Steve Poole           | JavaZone Oslo 2023    | <https://2023.javazone.no/program/243609e5-4340-49bd-b2dc-9db5f6689146>    |          |
 | Arkitekt 2.0 - En oppdatert arkitekt for en oppdatert verden                     | Magnus Elden (NO)     | JavaZone Oslo 2023    | <https://2023.javazone.no/program/f2395670-fd16-4689-a644-6e4df50c4361>    |          |
 | Application Monitoring with Grafana and OpenTelemetry                            | Fabian Stäber         | JavaZone Oslo 2023    | <https://2023.javazone.no/program/fa0469ab-f13c-417d-bf68-d7818ed02aa3>    |          |
+| “Wouldn’t it be cool…” and other bad design approaches                           | Billy Hollis          | NDC London 2023       |  <https://www.youtube.com/watch?v=GGUqyb6mzDw>                             |          |
+
 
