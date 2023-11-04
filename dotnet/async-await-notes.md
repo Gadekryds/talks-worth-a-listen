@@ -51,3 +51,10 @@ The alternative can lead to issues regarding Exception handling?
 
 Using IAsyncEnumerable interface, yield and await on the foreach loop, we can 
 run the foreach loop and each Task separately, so we can start reacting on each of these as they return.
+
+
+# Using WhenAny
+
+WhenAny will return a completedTask from a list of tasks, as soon as its completed.
+This means we can start reacting more quickly, to the completed tasks.
+
