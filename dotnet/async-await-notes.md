@@ -56,6 +56,25 @@ Using IAsyncEnumerable interface, yield and await on the foreach loop, we can
 run the foreach loop and each Task separately, so we can start reacting on each of these as they return.
 
 
+# Use the IAsyncEnumerable interface for streaming data
+
+This allows us to update the UI as we get data in, instead of a big bang.
+Which in turn gives us a better User Expereince.
+
+Use `[EnumeratorCancellation]` for CancellationToken.
+``` csharp 
+async IAsyncEnumerable<StoryModel> GetTopStories(int storyCount, [EnumeratorCancellation] CancellationToken token) {
+
+    var listOfTasks = GetListOfTasks(token).ConfigureAwait(false);
+
+    await forach(var task in listOfTasks)
+    {
+        // ... 
+    }
+
+}
+```
+
 # Using WhenAny
 
 WhenAny will return a completedTask from a list of tasks, as soon as its completed.
