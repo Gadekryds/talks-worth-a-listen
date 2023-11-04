@@ -28,4 +28,13 @@ Use with care.
 If it isn't important, which thread is picking back up the task after it finishes, use ConfigureAwait(false).
 Unless you use this flag, we'll await until the calling thread is free to pickup the awaited Task.
 
+# Always Use CancellationTokens
 
+If the async method doesn't allow for CancellationTokens you can use
+.WaitAsync(token); to attach a cancellationToken anyways.
+
+# Never use .Wait(). It's a trap!
+
+The Wait method will hijack the calling thread, and still run the task on another thread.
+This means we'll use an additional thread for no reason.
+For UI thread applications, this will freeze the app, in other apps, this can lead to threadpool exhaustion.
