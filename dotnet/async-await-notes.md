@@ -23,28 +23,31 @@ To get around this, you can await an async void method.
 Use with care.
 
 
-# Use ConfigureAwait(false)
+# Use `ConfigureAwait(false)`
 
 If it isn't important, which thread is picking back up the task after it finishes, use ConfigureAwait(false).
 Unless you use this flag, we'll await until the calling thread is free to pickup the awaited Task.
+
+Note: this only works when the framework is using SynchrnoizationContext.
+- [X] WPF
+- [X] WinForms
+- [X] Xamarin
+- [X] .NET MAUI
+- [X] WInUI
+- [ ] ASP.NET Core   
 
 # Always Use CancellationTokens
 
 If the async method doesn't allow for CancellationTokens you can use
 .WaitAsync(token); to attach a cancellationToken anyways.
 
-# Never use .Wait(). It's a trap!
+# Never use `.Wait()` and `.Result` It's a trap!
 
 The Wait method will hijack the calling thread, and still run the task on another thread.
 This means we'll use an additional thread for no reason.
 For UI thread applications, this will freeze the app, in other apps, this can lead to threadpool exhaustion.
 
-Instead use .GetAwaiter().GetResult();
-
-# Don't use .Result
-
-Instead use .GetAwaiter().GetResult();
-The alternative can lead to issues regarding Exception handling? 
+Instead use `.GetAwaiter().GetResult()`;
 
 
 # You can use await on foreach loops
