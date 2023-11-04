@@ -13,9 +13,12 @@ try to modify the same resources, as the void method.
 It's very hard to catch exceptions from an Async void method.
 
 It may be valid, in some cases.
+[AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices) package, can help with these issues.
+Using **SafeFireAndForget** method.
 
 # Constructors and await-async
 
 You cannot await an async method in a constructor.
 To get around this, you can await an async void method.
 Use with care.
+
