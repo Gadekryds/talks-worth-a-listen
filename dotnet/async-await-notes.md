@@ -22,3 +22,10 @@ You cannot await an async method in a constructor.
 To get around this, you can await an async void method.
 Use with care.
 
+
+# Use ConfigureAwait(false)
+
+If it isn't important, which thread is picking back up the task after it finishes, use ConfigureAwait(false).
+Unless you use this flag, we'll await until the calling thread is free to pickup the awaited Task.
+
+
