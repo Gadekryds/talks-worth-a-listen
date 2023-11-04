@@ -19,6 +19,9 @@
 | Arkitekt 2.0 - En oppdatert arkitekt for en oppdatert verden                     | Magnus Elden (NO)     | JavaZone Oslo 2023      | <https://2023.javazone.no/program/f2395670-fd16-4689-a644-6e4df50c4361>    |          |
 | Application Monitoring with Grafana and OpenTelemetry                            | Fabian Stäber         | JavaZone Oslo 2023      | <https://2023.javazone.no/program/fa0469ab-f13c-417d-bf68-d7818ed02aa3>    |          |
 | “Wouldn’t it be cool…” and other bad design approaches                           | Billy Hollis          | NDC London 2023         | <https://www.youtube.com/watch?v=GGUqyb6mzDw>                              |          |
-|  Correcting Common Async/Await Mistakes in .NET 8                                | Brandon Minnick       | Copenhagen DevFest 2023 | <https://www.youtube.com/watch?v=zhCRX3B7qwY>                              |          |
+| Correcting Common Async/Await Mistakes in .NET 8                                 | Brandon Minnick       | Copenhagen DevFest 2023 | <https://www.youtube.com/watch?v=zhCRX3B7qwY>                              | [Notes](./dotnet/async-await-notes.md)         |
+| ASP.NET Basics for Experts                                                       | Layla Porter          | Copenhagen DevFest 2023 | <https://www.youtube.com/watch?v=8K-7afjoYFs>                              |          |
+| Intentional Code - Minimalism in a World of Dogmatic Design                      | David Whitney         | Copenhagen DevFest 2023 | <https://www.youtube.com/watch?v=CDcP5e7-NOU>                              |          |
+
 
 
