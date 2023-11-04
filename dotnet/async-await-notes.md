@@ -58,3 +58,18 @@ run the foreach loop and each Task separately, so we can start reacting on each 
 WhenAny will return a completedTask from a list of tasks, as soon as its completed.
 This means we can start reacting more quickly, to the completed tasks.
 
+# Use ValueTasks when it's possible.
+
+Value types is added to the stack, which is much quicker.
+If your "hot path" of your method returns right wait, without using the await keyword. (i.e. you've cached a value)
+then you can use ValueTask as the return type, to get a performance boost.
+
+# Avoid `return await` 
+
+If the only place in your method you use the await keyword, is in the return statement, we can instead just return the task.
+This will allow the caller to set the await keyword, as they see fit.
+
+Don't do this if:
+
+* You're in a try/catch block
+* In a using block
