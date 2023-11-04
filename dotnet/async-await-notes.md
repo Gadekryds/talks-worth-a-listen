@@ -38,3 +38,10 @@ If the async method doesn't allow for CancellationTokens you can use
 The Wait method will hijack the calling thread, and still run the task on another thread.
 This means we'll use an additional thread for no reason.
 For UI thread applications, this will freeze the app, in other apps, this can lead to threadpool exhaustion.
+
+Instead use .GetAwaiter().GetResult();
+
+# Don't use .Result
+
+Instead use .GetAwaiter().GetResult();
+The alternative can lead to issues regarding Exception handling? 
