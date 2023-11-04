@@ -45,3 +45,9 @@ Instead use .GetAwaiter().GetResult();
 
 Instead use .GetAwaiter().GetResult();
 The alternative can lead to issues regarding Exception handling? 
+
+
+# You can use await on foreach loops
+
+Using IAsyncEnumerable interface, yield and await on the foreach loop, we can 
+run the foreach loop and each Task separately, so we can start reacting on each of these as they return.
