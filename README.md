@@ -23,3 +23,4 @@
 | Intentional Code - Minimalism in a World of Dogmatic Design                      | David Whitney         | Copenhagen DevFest 2023 | <https://www.youtube.com/watch?v=CDcP5e7-NOU>                              |          |
 | Apache Kafka in 1 hour for C# Developers                                         | Guilherme Ferreira    | Copenhagen DevFest 2023 | <https://www.youtube.com/watch?v=E07CGvGVal8>                              | [Notes](./dotnet/kafka-in-dotnet.md)         |
 | Stop rolling the dice: an approach to effort estimation in software development   | Luca Camerini |    Devoxx 2024   | <https://www.youtube.com/watch?v=EGl7vW6SEG0>    |    |
+| Performance oriented Spring Data JPA & Hibernate  |   Maciej Walkowiak    | Devoxx 2024   |   <https://www.youtube.com/watch?v=exqfB1WaqIw> | |
