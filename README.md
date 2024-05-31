@@ -27,3 +27,5 @@
 | Technical Neglect  |  Kevlin Henney  | NDC London 2024  |  <https://www.youtube.com/watch?v=9iLxR1h2208>  |  |
 | So you want to build an event driven system?  |  James Eastham  |  NDC London 2024  |  <https://www.youtube.com/watch?v=qcJASFx-F5g>  |  |
 | Thinking Like an Architect   |  Gregor Hohpe  | QCon London 2024  | <> N/A  |  |
+| Code to cloud with .NET Aspire  |  David Fowler & Damian Edwards  |  NDC Sydney 2024  <https://www.youtube.com/watch?v=R8S_cfao1L8>  |  |
+
