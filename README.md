@@ -30,6 +30,6 @@
 | Code to cloud with .NET Aspire  |  David Fowler & Damian Edwards  |  NDC Sydney 2024 |   <https://www.youtube.com/watch?v=R8S_cfao1L8>  |  |
 | Migrate Your Legacy ASP.NET Projects to ASP.NET Core Incrementally with YARP  |  Jonathan "J." Tower  |  NDC Sydney 2024  | <https://www.youtube.com/watch?v=caOwWJOIlPE>  |  |
 | Demystifying Web API Security in Azure  |  Jimmy Bogard  |  NDC Sydney 2024  |  <https://www.youtube.com/watch?v=m3J6NkyPJqE>  |  |
-
+| .NET Testing Best Practices  |  Rob Richardson  |  NDC Sydney 2024  |  <https://www.youtube.com/watch?v=_USCe5PolOA>  |  |
 
 
