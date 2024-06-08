@@ -33,3 +33,4 @@
 | .NET Testing Best Practices  |  Rob Richardson  |  NDC Sydney 2024  |  <https://www.youtube.com/watch?v=_USCe5PolOA>  |  |
 |  10 Opinions For Creating More Maintainable .NET Apps  |  Scott Sauber  |  NDC Sydney 2024  |  <https://www.youtube.com/watch?v=ZqQOm0PK6ME>  |  |
 |  This Ain't Your Parents' Java  |  Venkat Subramaniam  |  Spring I/O 2024  |  <https://www.youtube.com/watch?v=XKYDNcZlJgk>  |  |
+|  Next Generation Developer Platforms & Deployable Architectural Archetypes  |  Adam Stephensen  | NDC Sydney 2024  |  <https://www.youtube.com/watch?v=mTozV_eV4jQ>  |  |
