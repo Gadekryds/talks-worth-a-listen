@@ -34,3 +34,6 @@
 |  10 Opinions For Creating More Maintainable .NET Apps  |  Scott Sauber  |  NDC Sydney 2024  |  <https://www.youtube.com/watch?v=ZqQOm0PK6ME>  |  |
 |  This Ain't Your Parents' Java  |  Venkat Subramaniam  |  Spring I/O 2024  |  <https://www.youtube.com/watch?v=XKYDNcZlJgk>  |  |
 |  Next Generation Developer Platforms & Deployable Architectural Archetypes  |  Adam Stephensen  | NDC Sydney 2024  |  <https://www.youtube.com/watch?v=mTozV_eV4jQ>  |  |
+| 97 Things Every Java Programmer Should Know | TRISHA GEE & KEVLIN HENNEY  | Devoxx UK  |  <https://www.youtube.com/watch?v=td-3t3TBk1I>  |  |
+| Dapr and Spring Boot - Solving the Challenges of Distributed Systems  | M. Salatino / T. Vitale | Spring I/O  |  <https://www.youtube.com/watch?v=pMGz54Gstas>  |  |
+
