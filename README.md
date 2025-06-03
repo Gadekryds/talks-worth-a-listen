@@ -37,5 +37,6 @@
 | 97 Things Every Java Programmer Should Know | TRISHA GEE & KEVLIN HENNEY  | Devoxx UK  |  <https://www.youtube.com/watch?v=td-3t3TBk1I>  |  |
 | Dapr and Spring Boot - Solving the Challenges of Distributed Systems  | M. Salatino / T. Vitale | Spring I/O  |  <https://www.youtube.com/watch?v=pMGz54Gstas>  |  |
 | Creating Future-Proof Spring Applications with Event Sourcing  |  Steve Pember  |  Spring I/O 2024  |  <https://www.youtube.com/watch?v=xr6Gq3Cn4UQ>  |  |
+| Building Event Driven User Interfaces  |  Sam Ferree  |  NDC Melbourne 2025  |  <https://www.youtube.com/watch?v=zs62DvNZiXw>  |  |
 
 
